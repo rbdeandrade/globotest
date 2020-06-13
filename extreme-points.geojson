@@ -3,24 +3,24 @@
   "features": [{
       "type": "Feature",
       "properties": {
-        "name": "Mount Everest",
-        "type": "Highest point on Earth's surface ○ 8,848m (29,029ft)",
-        "location": "Peak located in the Mahalangur Himal sub-range of the Himalayas on the border of Nepal and China.",
-        "facts": "An expedition in 1924 resulted in one of the greatest mysteries on Everest to this day: George Mallory and Andrew Irvine made a final summit attempt on 8 June but never returned, sparking debate as to whether or not they were the first to reach the top. They had been spotted high on the mountain that day but disappeared in the clouds, never to be seen again, until Mallory's body was found in 1999 at 8,155 m (26,755 ft) on the north face. Officially, the peak was first reached by Sir Edmund Hillary of New Zealand and Sherpa of Nepal Tenzing Norgay in 1953.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Everest_kalapatthar.jpg",
-        "imageCaption": "Mount Everest from Kalapatthar",
-        "imageCopyright": "Image by Pavel Novack under CC BY-SA2.5",
+        "name": "The 7 Principles of Conflict Resolution",
+        "type": "The 7 Principles of Conflict Resolution : How to resolve disputes, defuse difficult situations and reach agreement",
+        "location": "Harlow, United Kingdom",
+        "facts": "7 Principles of Conflict Resolution is the go-to resource for conflict and dispute resolution, whether you're new to the subject or an experienced practitioner.",
+        "imageUrl": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/2922/9781292220925.jpg",
+        "imageCaption": "The 7 Principles of Conflict Resolution - Louisa Weinstein",
+        "imageCopyright": "Image by Pearson Education Limited",
         "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-        "source": "Wikipedia Mount Everest article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Everest",
+        "source": "Pearson Education Limited",
+        "sourceUrl": "https://www.bookdepository.com/The-7-Principles-of-Conflict-Resolution-Louisa-Weinstein/9781292220925",
         "sourceCopyright": "CC BY-SA 3.0",
-        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        "sourceCopyrightUrl": "https://www.bookdepository.com/The-7-Principles-of-Conflict-Resolution-Louisa-Weinstein/9781292220925"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          86.925061,
-          27.988271
+          51.7678,
+          0.0878
         ]
       }
     },
