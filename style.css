@@ -34,7 +34,7 @@ body {
 
 .esri-feature__main-container .popupImage {
   max-height: 250px;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .popupImage > img {
