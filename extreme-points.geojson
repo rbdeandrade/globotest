@@ -5,7 +5,7 @@
       "properties": {
         "name": "The 7 Principles of Conflict Resolution",
         "type": "The 7 Principles of Conflict Resolution : How to resolve disputes, defuse difficult situations and reach agreement",
-        "location": "Harlow, United Kingdom",
+        "location": "Harlow, United Kingdom.",
         "facts": "7 Principles of Conflict Resolution is the go-to resource for conflict and dispute resolution, whether you're new to the subject or an experienced practitioner.",
         "imageUrl": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/2922/9781292220925.jpg",
         "imageCaption": "The 7 Principles of Conflict Resolution - Louisa Weinstein",
@@ -14,7 +14,7 @@
         "source": "Pearson Education Limited",
         "sourceUrl": "https://www.bookdepository.com/The-7-Principles-of-Conflict-Resolution-Louisa-Weinstein/9781292220925",
         "sourceCopyright": "CC BY-SA 3.0",
-        "sourceCopyrightUrl": "https://www.bookdepository.com/The-7-Principles-of-Conflict-Resolution-Louisa-Weinstein/9781292220925"
+        "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
@@ -27,168 +27,172 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Challenger Deep",
-        "type": "Lowest known point on Earth ○ 11,034 m (36,201 ft) below sea level",
-        "location": "At the bottom of the Mariana Trench in the western Pacific Ocean.",
-        "facts": "The first people to reach the ocean floor in the trench were Swiss oceanographer and engineer Jacques Piccard and U.S. Navy Lieutenant Don Walsh. They descended on board of Trieste Bathyscaphe, a submersible designed by Jacques Piccard and his father.",
-        "imageCaption": "Bathyscaphe Trieste",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bathyscaphe_Trieste.jpg",
-        "imageCopyright": "Bathyscaphe Trieste image under Public Domain",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Public_domain",
-        "source": "Wikipedia Challenger Deep article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Challenger_Deep",
+        "name": "Pedagogy of the Oppressed",
+        "type": "Pedagogy of the Oppressed : 50th Anniversary Edition",
+        "location": "RJ, Brazil.",
+        "facts": "First published in Portuguese in 1968, Pedagogy of the Oppressed was translated and published in English in 1970. Paulo Freire's work has helped to empower countless people throughout the world and has taken on special urgency in the United States and Western Europe, where the creation of a permanent underclass among the underprivileged and minorities in cities and urban centers is ongoing.",
+        "imageCaption": "Pedagogy of the Oppressed -  Paulo Freire",
+        "imageUrl": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/6301/9781630158255.jpg",
+        "imageCopyright": "Image by Bloomsbury Publishing PLC",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Bloomsbury Publishing PLC",
+        "sourceUrl": "https://www.bloomsbury.com/uk/",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.591667,
-          11.374300
+          -43.1927490234375,
+          -22.90527346175716
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Ojos del Salado",
-        "type": "Highest active volcano summit ○ 6,061 m (22,838 ft)",
-        "location": "In the Andes on the Argentina-Chile border.",
-        "facts": "The name of the mountain means <em>Eyes of the Salty One</em> in Spanish and it comes from the enormous deposits of salt that, in the form of lagoons or 'eyes', appear in its glaciers.",
-        "imageCaption": "Ojos del Salado volcano looming on the horizon",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ojos_del_Salado_looming_big_on_the_horizon.jpg",
-        "imageCopyright": "Image by Jespinos under CC BY-SA 2.0",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Ojos_del_Salado#/media/File:Ojos_del_Salado_looming_big_on_the_horizon.jpg",
-        "source": "Ojos del Salado wikipedia article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Ojos_del_Salado",
+        "name": "Mediation and Conflict Resolution",
+        "type": "Mediation and Conflict Resolution: Managing Conflict in the Workplace A Hands-Ons Approach for Managers",
+        "location": "Dallas, Texas.",
+        "facts": "Mediation. Managing conflict in the workplace. A hands on approach.",
+        "imageCaption": "Mediation and Conflict Resolution - Allen May",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51sQ2DmHsOL._SX331_BO1,204,203,200_.jpg",
+        "imageCopyright": "Image by Allen May",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Allen May",
+        "sourceUrl": "https://www.amazon.com/Mediation-Conflict-Resolution-Workplace-Hands-Ons/dp/1724077058",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.541389,
-          -27.109722
+          -96.79367065429688,
+          32.778037985363675
         ]
       }
     },
      {
       "type": "Feature",
       "properties": {
-        "name": "La Rinconada",
-        "type": "The highest permanent human settlement ○ 5,100 m (16,732 ft)",
-        "location": "Located in the Andes in Peru",
-        "facts": "The town is situated next to a gold mine, so the economy is mainly based on the extraction and production of gold, many artisanal. Between 2001 and 2009, the population increased to 30,000 people from just a small gold prospector camp because the price of gold rose 235% over that period.",
-        "imageCaption": "View of La Rinconada",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/La_Rinconada_Peru.jpg",
-        "imageCopyright": "Image by Hildegard Willer under CC BY-SA 4.0",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru#/media/File:La_Rinconada_Peru.jpg",
-        "source": "La Rinconada, Peru Wikipedia article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru",
+        "name": "The Mediation Handbook",
+        "type": "The Mediation Handbook: Research, theory, and practice",
+        "location": "London, United Kingdom.",
+        "facts": "The Handbook of Mediation gathers leading experts across fields related to peace, justice, human rights, and conflict resolution to explore ways that mediation can be applied to a range of spectrums, including new age settings, relationships, organizations, institutions, communities, environmental conflicts, and intercultural and international conflicts.",
+        "imageCaption": "The Mediation Handbook - Alexia Georgakopoulos",
+        "imageUrl": "https://images.routledge.com/common/jackets/amazon/978113812/9781138124219.jpg",
+        "imageCopyright": "Image by Routledge & CRC Press",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Routledge & CRC Press",
+        "sourceUrl": "https://www.routledge.com/The-Mediation-Handbook-Research-theory-and-practice/Georgakopoulos/p/book/9781138124219",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.445833,
-          -14.6325
+          -0.11707305908203124,
+          51.51216124955515
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Baku",
-        "type": "The lowest-lying national capital in the world and also the largest city in the world located below sea level ○ 28m (92ft) below sea level",
-        "location": "Azerbaijan",
+        "name": "Say What's Wrong and Make It Right",
+        "type": "Say What's Wrong and Make It Right: Proven Strategies for Teaching Children to Resolve Conflicts on Their Own (English Edition)",
+        "location": "Newport Beach - California.",
         "facts": "Baku is the capital and largest city of Azerbaijan, as well as the largest city on the Caspian Sea and of the Caucasus region. In 2012 Baku hosted the 57th Eurovision Song Contest and in 2020 it will be one of the host cities for UEFA Euro 2020.",
-        "imageCaption": "A view of the Baku bay",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/A_view_of_the_Baku_bay%2C_Azerbaijan.jpg",
-        "imageCopyright": "Image by Alix Saz under CC BY-SA 4.0",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Baku_Boulevard#/media/File:A_view_of_the_Baku_bay,_Azerbaijan.jpg",
-        "source": "Baku Wikipedia article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Baku",
+        "imageCaption": "Say What's Wrong and Make It Right - Karen Taylor-Bleiker",
+        "imageUrl": "https://m.media-amazon.com/images/I/51s5aWpat9L.jpg",
+        "imageCopyright": "Image by Karen Taylor-Bleiker",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Karen Taylor-Bleiker",
+        "sourceUrl": "https://www.amazon.com/Karen-T.-Taylor/e/B001KIK7TU%3Fref=dbs_a_mng_rwt_scns_share",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.882222,
-          40.395278
+          -117.92861938476562,
+          33.617478368185814
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lake Baikal",
-        "type": "World's deepest lake ○ maximum depth of 1,642 m (5,387 ft)",
-        "location": "Southern Siberia, Russia",
-        "facts": "Lake Baikal is the largest freshwater lake by volume in the world, containing 22–23% of the world's fresh surface water. Baikal is home to thousands of species of plants and animals, many of which exist nowhere else in the world. The lake was declared a UNESCO World Heritage Site in 1996. It is also home to Buryat tribes who reside on the eastern side of Lake Baikal, raising goats, camels, cattle, sheep, and horses. The mean temperature varies from a winter minimum of −19 °C (−2 °F) to a summer maximum of 14 °C (57 °F).",
-        "imageCaption": "",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jezioro_Bajka%C5%82_2.jpg",
-        "imageCopyright": "Image by W0zny under CC BY-SA 3.0",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Lake_Baikal#/media/File:Jezioro_Bajkał_2.jpg",
-        "source": "Lake Baikal Wikipedia article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Baikal",
+        "name": "Resolving Structural Conflicts",
+        "type": "Resolving Structural Conflicts: How Violent Systems Can Be Transformed",
+        "location": "London, United Kingdom.",
+        "facts": "This book analyses how certain types of social systems generate violent conflict and discusses how these systems can be transformed in order to create the conditions for positive peace.",
+        "imageCaption": "Resolving Structural Conflicts - Richard E. Rubenstein",
+        "imageUrl": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/1389/9781138956339.jpg",
+        "imageCopyright": "Image by Taylor & Francis Ltd",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Taylor & Francis Ltd",
+        "sourceUrl": "https://taylorandfrancis.com/",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.126761,
-          53.607026
+          -0.14136314392089844,
+          51.491911859021414
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Eurasian Pole of Inaccessibility (EPIA)",
-        "type": "Most distant point from an ocean ○ 2,645 km (1,644 miles) from the nearest coastline",
-        "location": "In China's Xinjiang region, near the border with Kazakhstan",
-        "facts": "A pole of inaccessibility is defined as the location furthest from any ocean. Each continent has its own pole of innaccessibility, but EPIA has the largest distance from the ocean. There are several debates on where exactly this point lies, depending on how the coastline is defined. In 2007, <a href='http://diapiro.ictja.csic.es/gt/danielgc/papers/Garcia-Castellanos,%20Lombardo,%202007,%20SGJ.pdf' target='_blank'>this study</a> concluded that the Gulf of Ob is part of the ocean and this new pole was established to be the furthest from the ocean.",
-        "imageCaption": "",
-        "imageUrl": "https://www.atlasandboots.com/wp-content/uploads/2016/04/Poles-of-inaccessibility-eurasian-1.jpg",
-        "imageCopyright": "Image by Colegota under CC BY-SA 3.0",
-        "imageCopyrightUrl": "https://www.atlasandboots.com/poles-of-inaccessibility-middle-nowhere/",
-        "source": "Pole of inaccessibility Wikipedia article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Pole_of_inaccessibility",
+        "name": "Resolving Everyday Conflict",
+        "type": "Resolving Everyday Conflict",
+        "location": "Ada, Michigan.",
+        "facts": "In Resolving Everyday Conflict, Sande distills his message to the essentials, quickly equipping readers with the tools they need to bring peace to their relationships.",
+        "imageCaption": "Resolving Everyday Conflict - Ken Sande and Kevin Johnson",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51ejpvbgViL._SX355_BO1,204,203,200_.jpg",
+        "imageCopyright": "Image by Baker Publishing Group",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Baker Publishing Group",
+        "sourceUrl": "http://bakerpublishinggroup.com/",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          86.666667,
-          46.283333
+          -85.50135612487793,
+          42.95708208703205
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Point Nemo",
-        "type": "Most distant point from land ○ 2,688 km (1,670 mi) from the nearest land",
-        "location": "South Pacific Ocean",
-        "facts": "The oceanic pole of inaccessibility was officially discovered in 1992 by survey engineer Hrvoje Lukatela. The pole has been nicknamed Point Nemo, after author Jules Verne's famous Captain Nemo. The name also means \"no-one\" in Latin, which is fitting because Point Nemo is so far from land, that the nearest humans are often astronauts. The International Space Station orbits the Earth at a maximum of 258 miles (416 km), meanwhile the nearest landmass is Ducie Island, an uninhabited atoll in the Pitcairn Islands, over 1,670 miles (2,700 km) away.",
-        "imageCaption": "Ducie Atoll, closest landmass to Point Nemo",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ducie02_AKK.jpg",
-        "imageCopyright": "Image by Angela K. Kepler under Public Domain",
-        "imageCopyrightUrl": "https://en.wikipedia.org/wiki/Ducie_Island#/media/File:Ducie02_AKK.jpg",
-        "source": "Pole of inaccessibility Wikipedia article",
-        "sourceUrl": "https://en.wikipedia.org/wiki/Pole_of_inaccessibility",
+        "name": "Nonviolent Communication: A Language of Life",
+        "type": "Nonviolent Communication: A Language of Life, 3rd Edition: Life-Changing Tools for Healthy Relationships",
+        "location": "Encinitas, California.",
+        "facts": "Nonviolent Communication is the integration of four things:
+        - Consciousness: a set of principles that support living a life of compassion, collaboration, courage, and authenticity.
+        - Language: understanding how words contribute to connection or distance. 
+        - Communication: knowing how to ask for what we want, how to hear others even in disagreement, and how to move toward solutions that work for all.
+        - Means of influence: sharing “power with others” rather than using “power over others”",
+        "imageCaption": "Nonviolent Communication - Marshall B. Rosenberg and Deepak Chopra",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/717nMjlSiGL.jpg",
+        "imageCopyright": "Image by PuddleDancer Press",
+        "imageCopyrightUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "PuddleDancer Press",
+        "sourceUrl": "https://www.nonviolentcommunication.com/",
         "sourceCopyright": "CC BY-SA 3.0",
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.393333,
-          -48.876667
+          -117.28583335876465,
+          33.03637013287287
         ]
       }
     }
