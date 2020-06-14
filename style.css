@@ -110,6 +110,7 @@ p.info {
 
 #introDiv p {
   line-height: 1.5em;
+  text-align: center;
 }
 
 #container a:hover {
